@@ -1,4 +1,4 @@
-Михайлов Виталий, lab4
+Бельков Даниил, lab4
 
 ## Laboratory work IV
 
